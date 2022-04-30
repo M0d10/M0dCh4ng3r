@@ -1,3 +1,5 @@
+print("*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************")
+
 import os
 from getmac import get_mac_address as gmc
 if not "SUDO_UID" in os.environ.keys():

@@ -1,3 +1,5 @@
+print("*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************")
+
 import os
 import time
 

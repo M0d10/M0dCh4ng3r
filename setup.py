@@ -1,7 +1,7 @@
 import os
 import time
 
-if not 'SUDO_UID':
+if not 'SUDO_UID' in os.environ.keys():
   exit("RUN THE SCRIPT AS ROOT")
 
 print("*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************")

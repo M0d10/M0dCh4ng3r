@@ -3,8 +3,7 @@
 [Python3 Script To Spoof MAC Address]
 [Usage Is Pretty Simple]
 [Installation]
-  {pip3 install -r libs.txt}#To Install Required Libraries}
-  {python3 setup.py}
+  {sudo python3 setup.py}
 [Running]
   {python3 macchanger.py}
 [You Shouldn't Use Colons For Seperation Between Spaces]
